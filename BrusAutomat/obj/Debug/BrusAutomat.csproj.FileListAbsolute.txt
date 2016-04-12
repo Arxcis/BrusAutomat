@@ -1,0 +1,6 @@
+c:\users\jonas\documents\visual studio 2015\Projects\BrusAutomat\BrusAutomat\bin\Debug\BrusAutomat.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\BrusAutomat\BrusAutomat\bin\Debug\BrusAutomat.exe
+c:\users\jonas\documents\visual studio 2015\Projects\BrusAutomat\BrusAutomat\bin\Debug\BrusAutomat.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\BrusAutomat\BrusAutomat\obj\Debug\BrusAutomat.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\BrusAutomat\BrusAutomat\obj\Debug\BrusAutomat.exe
+c:\users\jonas\documents\visual studio 2015\Projects\BrusAutomat\BrusAutomat\obj\Debug\BrusAutomat.pdb

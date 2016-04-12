@@ -1,0 +1,43 @@
+1. Derek Banas: Learn C sharp in one video - https://www.youtube.com/watch?v=lisiwUZJXqQ
+    Kommentar: Liker denne fyren fordi han har et raskt tempoo. Ingen grunn til å se en treig beginners tutorial når en kan pause så mye en vil. 
+
+2. Tutorials point: C# Types -  http://www.tutorialspoint.com/csharp/csharp_data_types.htm
+    kommentar: Har observert at i C# så må en definere typer. Dette er jeg ikke vant til fra Python. Derfor søkte jeg på "C# types" for å fordype meg litt. Int, long og char(Ints), float og double(floats), Bool
+
+3. Tutorials point: C# Strings - http://www.tutorialspoint.com/csharp/csharp_strings.htm
+    Kommentar: Fant ut at strings ikke hører til types, men et instansiert object av classen String. Det kan likevel skrives på samme måte som når en lager andre variabler, med en "string literate" --> string variabel = 'blablbablal'.
+
+4. Microsoft msdn - Methods (C#) - https://msdn.microsoft.com/en-us/library/ms173114.aspx
+    Kommentar: Var nysgjerrig på hvorfor denne skrivemåten eksisterer -- > class var = new Class();
+                                                        Hvorfor ikke bare:       var = new Class();
+                    Fant ikke ut noe mer enn at slik er det bare.
+
+5. Tutorials point: Namespace - http://www.tutorialspoint.com/csharp/csharp_namespaces.htm
+    Kommentar: Har ikke vert borti namespaces in python. Basically en overgruppering et nivå opp fra classer. 
+        Classer med samme navn , i forskjellig namespace vil ikke skape konflikt med hverandre.
+
+
+6. Nydelig oversikt over String Methods - http://www.dotnetperls.com/string
+        Trengte en enkel referanse.
+
+7. StackOverflow - C# class {get; set;} http://stackoverflow.com/questions/5096926/what-is-the-get-set-syntax-in-c
+    Vanskelig konsept i C sharp klasser. Svar nummer 2 her var en ganske utfyllende forklaring som gjorde at jeg skjønte ting på en helt nye måte. 
+
+8 Microsoft msdn: Using properties - https://msdn.microsoft.com/en-us/library/w86s7x04.aspx
+    Mer om get set, og class properties.
+
+9. StackOverflow - Noob spørsmål   http://stackoverflow.com/questions/8868338/why-is-the-console-window-closing-immediately-without-displaying-my-output
+        Programmet mitt "Hello World" ville ikke vente til jeg hadde fått lest det. Løste det med en Console.Read() på slutten
+
+10. StackOverFlow - HVordan legge forskjellige datatyper i et array. http://stackoverflow.com/questions/6482331/how-to-add-different-types-of-objects-in-a-single-array-in-c
+        Forsøk på å simulere en dict i Python.
+
+11. StackOverFlow - get int from string http://stackoverflow.com/questions/1019793/how-can-i-convert-string-to-int
+          Her må en bruke Int32.parse() for å få ut en int fra en string.
+
+
+session 23:13 - 23:45
+        00:15 - 00:37
+        00:50 - 01:15
+        01:22 - 01.49
+        01:55 - 02.48
