@@ -36,8 +36,9 @@
           Her må en bruke Int32.parse() for å få ut en int fra en string.
 
 
-session 23:13 - 23:45
-        00:15 - 00:37
-        00:50 - 01:15
-        01:22 - 01.49
-        01:55 - 02.48
+session 23:13 - 23:45   47 min
+        00:15 - 00:37   22 min
+        00:50 - 01:15   25 min
+        01:22 - 01.49   47 min
+        01:55 - 03.22   88 min
+                     =  229 min --> 3,81 timer.
